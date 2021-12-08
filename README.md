@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @136690180069-ncr2-deped-gov-ph
-- 👀 I’m interested in artificial intelligence coding
-- 🌱 I’m currently learning python
+- 👀 I’m interested in artificial intelligence coding.
+- 🌱 I’m currently learning Python programming language.
 - 💞️ I’m looking to collaborate on drones following a target autonomously.
 - 📫 How to reach me 136690180069@ncr2.deped.gov.ph
 
